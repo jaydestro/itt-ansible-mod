@@ -1,5 +1,8 @@
 #!/bin/bash
 
+
+mkdir -p /home/$USER/.ansible
+
 export DIR="/home/$USER/.ansible"
 export SSHUSER="jaygordon"
 touch  $DIR/hosts
