@@ -2,7 +2,6 @@
 
 export DIR="/home/$USER/.ansible"
 export SSHUSER="jaygordon"
-echo -e "[hosts]\n$ip" > $DIR/hosts
 touch  $DIR/hosts
 
 
