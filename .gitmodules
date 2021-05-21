@@ -1,0 +1,3 @@
+[submodule "twtinterns/hugo-academic"]
+	path = twtinterns/hugo-academic
+	url = git@github.com:gcushen/hugo-academic.git
